@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://g5kx4jx8magi"]
+
+[ext_resource type="Texture2D" uid="uid://b6hq7pk77eqg3" path="res://assets/checkerboard_imageedit_17_4782211417.jpg" id="1_7nsbm"]
+
+[resource]
+albedo_texture = ExtResource("1_7nsbm")
+uv1_scale = Vector3(-0.195, -0.195, -0.195)
+uv1_triplanar = true
+uv1_triplanar_sharpness = 2.3784144
+uv1_world_triplanar = true
+texture_filter = 0
